@@ -19,17 +19,17 @@ TOR: Turnover Percentage Allowed\
 TORD: Turnover Percentage Committed\
 ORB: Offensive Rebound Rate\
 DRB: Offensive Rebound Rate Allowed\
-FTR : Free Throw Rate\ 
+FTR : Free Throw Rate\
 FTRD: Free Throw Rate Allowed\
 2P_O: Two-Point Shooting Percentage\
 2P_D: Two-Point Shooting Percentage Allowed\
 3P_O: Three-Point Shooting Percentage\
 3P_D: Three-Point Shooting Percentage Allowed\
 ADJ_T: Adjusted Tempo (An estimate of the tempo (possessions per 40 minutes) a team would have against the team that wants to play at an average Division I tempo)
-WAB: Wins Above Bubble\ 
+WAB: Wins Above Bubble\
 POSTSEASON: Round where the given team was eliminated or where their season ended.\
 SEED: Seed in the NCAA March Madness Tournament\
-YEAR: Season\
+YEAR: Season
 
 # Objectives 
 
