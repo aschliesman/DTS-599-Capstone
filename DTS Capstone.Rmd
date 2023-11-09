@@ -1,0 +1,27 @@
+---
+title: "DTS Capstone"
+author: "Annika Schliesman and Nicholas Frederick"
+date: "9/19/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+## Import and Combine Data
+
+```{r cars}
+basketball <- read.csv('cbb.csv')
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
