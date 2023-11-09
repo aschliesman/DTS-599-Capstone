@@ -10,11 +10,11 @@ contains data for the years 2013-2023, and it is updated each year after the tou
 
 G: Number of games played\
 W: Number of games won\
-ADJOE: Adjusted Offensive Efficiency <br />
-ADJDE: Adjusted Defensive Efficiency <br />
-BARTHAG: Power Rating 
-EFG_O: Effective Field Goal Percentage Shot
-EFG_D: Effective Field Goal Percentage Allowed
+ADJOE: Adjusted Offensive Efficiency\
+ADJDE: Adjusted Defensive Efficiency\
+BARTHAG: Power Rating\
+EFG_O: Effective Field Goal Percentage Shot\
+EFG_D: Effective Field Goal Percentage Allowed\
 TOR: Turnover Percentage Allowed
 TORD: Turnover Percentage Committed 
 ORB: Offensive Rebound Rate
