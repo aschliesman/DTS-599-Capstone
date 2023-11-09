@@ -8,7 +8,7 @@ Division I Men’s basketball teams—specifically related to NCAA March Madness
 The original dataset can be found on Kaggle.com, and it contains 23 statistics on over 300 Division I Men’s basketball teams. It 
 contains data for the years 2013-2023, and it is updated each year after the tournament. The following variables are included in the dataset:
 
-G: Number of games played
+G: Number of games played<br />
 W: Number of games won
 ADJOE: Adjusted Offensive Efficiency
 ADJDE: Adjusted Defensive Efficiency 
